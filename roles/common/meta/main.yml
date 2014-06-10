@@ -1,4 +1,4 @@
 dependencies:
-  - { role: build }
   - { role: apt }
+  - { role: build }
   - { role: security }
