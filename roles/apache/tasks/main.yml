@@ -1,0 +1,5 @@
+- name: General | Install PHP
+  action: apt pkg=apache2 state=installed
+  tags: apache
+ 
+
